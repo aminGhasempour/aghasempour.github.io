@@ -7,15 +7,16 @@ lsi: false
 permalink: /:title
 
 title: "Mohammad Ghasempour"
-description: "PhD Candidate of Statistics"
+description: ""
 baseurl: ""
-url: "https://aghsempour.github.io" # replace by your site's url
+url: "https://aghsempour.github.io/" # replace by your site's url
 twitter_username: aminejazz
 github_username:  aminGhasempour # (your name)
+orcid_username: 
+linkedin_username: 
 accent: "#f7f7e6" # accent color for blog column
 
 author: "Mohammad Ghasempour"
-address: "Skärvstensgtn 18, <br>Umeå, Sweden"
 email: "aghasempour@gmail.com"
 
 # google analytics tracking code, please change the value
