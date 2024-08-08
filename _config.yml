@@ -8,8 +8,8 @@ permalink: /:title
 
 title: "Mohammad Ghasempour"
 description: "PhD Candidate of Statistics"
-baseurl: "/onepage"
-url: "https://lukas-h.github.io" # replace by your site's url
+baseurl: ""
+url: "https://aghsempour.github.io" # replace by your site's url
 twitter_username: your-name
 github_username:  lukas-h # (your name)
 accent: "#f7f7e6" # accent color for blog column
