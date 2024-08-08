@@ -10,13 +10,13 @@ title: "Mohammad Ghasempour"
 description: "PhD Candidate of Statistics"
 baseurl: ""
 url: "https://aghsempour.github.io" # replace by your site's url
-twitter_username: your-name
-github_username:  lukas-h # (your name)
+twitter_username: aminejazz
+github_username:  aminGhasempour # (your name)
 accent: "#f7f7e6" # accent color for blog column
 
-author: "Your Name"
-address: "Your Street, <br>Your City, Country"
-email: "your@email.com"
+author: "Mohammad Ghasempour"
+address: "Skärvstensgtn 18, <br>Umeå, Sweden"
+email: "aghasempour@gmail.com"
 
 # google analytics tracking code, please change the value
 g_analytics: ""
