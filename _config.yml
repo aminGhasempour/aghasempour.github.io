@@ -8,7 +8,7 @@ permalink: /:title
 
 title: "Mohammad Ghasempour"
 description: "PhD Candidate of Statistics"
-baseurl: "/"
+baseurl: ""
 url: "https://aghsempour.github.io" # replace by your site's url
 twitter_username: aminejazz
 github_username:  aminGhasempour # (your name)
