@@ -7,9 +7,11 @@
 	<div class="grid">
 		<div id="/home" class="unit one-third">
 			<div class="grid">
-				<div class="unit whole" id="/home">
-					<h1>{{ site.title }}</h1>
-					<p>{{ site.description }}</p>
+				<div class="unit whole hide-on-mobiles" id="/home">
+					<img src="{{ site.url }}/assets/images/{{ site.picture }}" class="bio-photo" alt="{{ author.name }} bio photo">
+				</div>
+				<div class="unit whole hide-on-desktops" id="/home">
+					<img src="{{ site.url }}/assets/images/{{ site.picture }}" class="bio-photo" alt="{{ author.name }} bio photo">
 				</div>
 				<div class="unit whole" id="/contact">
 					<a href="https://twitter.com/{{ site.twitter_username }}" class="twitter-icon btn"><i class="icon ion-social-twitter"></i></a>
@@ -27,6 +29,10 @@
 		</div>
 		<div class="unit two-thirds blog-column">
 			<div class="grid">
+				<div class="unit whole" id="/home">
+					<h1>{{ site.title }}</h1>
+					<p>{{ site.description }}</p>
+				</div>
 				<div class="unit whole" id="/blog">
 					<!--<h1>Blog</h1>-->
 				</div>
