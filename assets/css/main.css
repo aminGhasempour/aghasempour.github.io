@@ -41,14 +41,14 @@ small{
 }
 a{
     text-decoration: none;
-    color: #db4646;
+    color: #994385;
     cursor: pointer;
 }
 a:hover{
-    color: #b21c1c;
+    color: #7d1659;
 }
 a:active{
-    color: #910b0b;
+    color: #660b91;
 }
 img{
     max-width: 100%;
