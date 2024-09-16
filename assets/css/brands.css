@@ -16,7 +16,9 @@
 
 .fab,
 .fa-brands {
-  font-weight: 400; }
+  font-weight: 400;
+  font-style: normal;
+  font-family: 'Font Awesome 6 Brands'; }
 
 .fa-monero:before {
   content: "\f3d0"; }
