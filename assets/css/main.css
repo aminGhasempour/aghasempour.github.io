@@ -69,6 +69,12 @@ li{
 .twitter-icon:hover, .twitter-icon:focus, .twitter-icon:active{
     color: #1da0f2;
 }
+.linkedin-icon:hover, .linkedin-icon:focus, .linkedin-icon:active{
+    color: #1da0e2;
+}
+.orcid-icon:hover, .orcid-icon:focus, .orcid-icon:active{
+    color: #db4646;
+}
 .mail-icon:hover, .mail-icon:focus, .mail-icon:active{
     color: #db4646;
 }
