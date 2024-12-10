@@ -1,4 +1,4 @@
-PhD student in statistics \
+Postdoctoral researcher in statistics \
 Umeå University 
 
 ### Manuscripts
